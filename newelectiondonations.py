@@ -2,8 +2,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from pathlib import Path
 
-#test
-
 #prompt the user to input the file name and path name to be used in the program
 pathName = r"R:\Downloads\indiv20\by_date"
 dataDir = Path(pathName)
